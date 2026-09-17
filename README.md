@@ -113,6 +113,4 @@ token = xxxxxxxxxxxxxxxxxxxxxxxx(Your Personal Access Token)
 ```
 ## Thanks
 [tindy2013](https://github.com/tindy2013)
-[https://github.com/tindy2013/subconverter](https://github.com/tindy2013/subconverter)
 [asdlokj1qpi233](https://github.com/asdlokj1qpi233)
-[https://github.com/asdlokj1qpi233/subconverter](https://github.com/asdlokj1qpi233/subconverter)
