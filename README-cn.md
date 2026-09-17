@@ -2,11 +2,10 @@
 
 在各种订阅格式之间进行转换的实用程序.
 
-[![Build Status](https://github.com/tindy2013/subconverter/actions/workflows/build.yml/badge.svg)](https://github.com/tindy2013/subconverter/actions)
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/tindy2013/subconverter.svg)](https://github.com/tindy2013/subconverter/tags)
-[![GitHub release](https://img.shields.io/github/release/tindy2013/subconverter.svg)](https://github.com/tindy2013/subconverter/releases)
-[![GitHub license](https://img.shields.io/github/license/tindy2013/subconverter.svg)](https://github.com/tindy2013/subconverter/blob/master/LICENSE)
-
+[![Build Status](https://github.com/ZhipengRen/subconverter-xray/actions/workflows/build.yml/badge.svg)](https://github.com/ZhipengRen/subconverter-xray/actions)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/ZhipengRen/subconverter-xray.svg)](https://github.com/ZhipengRen/subconverter/tags)
+[![GitHub release](https://img.shields.io/github/release/ZhipengRen/subconverter-xray.svg)](https://github.com/ZhipengRen/subconverter-xray/releases)
+[![GitHub license](https://img.shields.io/github/license/ZhipengRen/subconverter-xray.svg)](https://github.com/tindy2013/subconverter/blob/master/LICENSE)
 * * *
 
 ## 新增内容
@@ -1443,3 +1442,9 @@ http://127.0.0.1:25500/getruleset?type=%TYPE%&url=%URL%&group=%GROUP%
 | group | type=2时必选 | mygroup | 规则对应的策略组名，生成Quantumult X类型（type=2）时必须提供                                                                                                                  |
 
 运行 subconverter 主程序后， 按照 [调用地址 (规则转换)](#调用地址-规则转换) 的对应内容替换即可得到指定类型的规则。
+
+## 鸣谢
+[tindy2013](https://github.com/tindy2013)
+[https://github.com/tindy2013/subconverter](https://github.com/tindy2013/subconverter)
+[asdlokj1qpi233](https://github.com/asdlokj1qpi233)
+[https://github.com/asdlokj1qpi233/subconverter](https://github.com/asdlokj1qpi233/subconverter)
