@@ -10,14 +10,19 @@
 
 ## 新增内容
 
+2026/09/17
+
+-   新增 [配置文件](#进阶链接) 中 `调用说明 (进阶)` 部分的说明
+-   feat(clash): support X25519MLKEM768 for VLESS Reality
+
+<details>
+<summary><b>更新历史</b></summary>
 2021/10/1
 
 -   新增 [配置文件](#配置文件) 中 `[advanced]` 部分的说明
 -   修改调整文档中的多处描述
 -   更换文档中失效的外部链接
 
-<details>
-<summary><b>更新历史</b></summary>
 2020/12/9
 
 -   新增 [特别用法](#特别用法) 中 [规则转换](#规则转换) 的说明
@@ -339,6 +344,7 @@ http://127.0.0.1:25500/sub?target=%TARGET%&url=%URL%&emoji=%EMOJI%····
 | classic       |  可选 | true / false              | 用于设置是否生成 Clash classical rule-provider                                                                                                                                                                      |
 | tls13         |  可选 | true / false              | 用于设置是否为节点增加tls1.3开启参数                                                                                                                                                                                       |
 | new_name      |  可选 | true / false              | 如果设置为 true，则将启用 Clash 的新组名称 (proxies, proxy-groups, rules)                                                                                                                                                  |
+| support_x25519mlkem768      |  可选 | true / false              | 如果设置为 true，则将为clash配置中vless节点reality-opts添加support-x25519mlkem768: true                                                                                                                                                  |
 
 举个例子：
 
